@@ -11,4 +11,4 @@ Gli argomenti principali includono:
 
 Il file è pensato come strumento di ripasso veloce, con esempi stile compito e checklist finali per evitare errori comuni.
 
-✍️ Autore: Antonio Cioffi – Studente di Ingegneria Informatica (Uninettuno)
+Autore: Antonio Cioffi – Studente di Ingegneria Informatica (Uninettuno)
